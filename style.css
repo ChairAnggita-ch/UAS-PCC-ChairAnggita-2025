@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(to right, #5C6BC0 65%, #A8E6CE 35%); /* Latar belakang gradien dua warna */
+}
+
+.container-fluid {
+    color: white; /* Warna teks putih */
+    padding: 50px; /* Tambahkan padding untuk ruang */
+}
+
+h1 {
+    color: #FF8A65; /* Warna teks untuk judul */
+    font-size: 3rem; /* Ukuran huruf untuk judul */
+    font-weight: bold; /* Menebalkan huruf */
+}
+
+p {
+    color: #FFFFFF; /* Warna teks untuk paragraf */
+    font-size: 1.25rem; /* Ukuran huruf untuk paragraf */
+}
+
+footer {
+    background-color: #5C6BC0; /* Warna footer */
+    color: white; /* Warna teks footer */
+} 
