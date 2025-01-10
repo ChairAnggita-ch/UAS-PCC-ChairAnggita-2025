@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to right, #5C6BC0 65%, #A8E6CE 35%); /* Latar belakang gradien dua warna */
+    background: linear-gradient(to right, #0000CD 65%, #9ACD32 35%); /* Latar belakang gradien dua warna */
 }
 
 .container-fluid {
@@ -19,6 +19,6 @@ p {
 }
 
 footer {
-    background-color: #5C6BC0; /* Warna footer */
+    background-color: #0000CD; /* Warna footer */
     color: white; /* Warna teks footer */
 } 
