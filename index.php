@@ -7,59 +7,22 @@ echo "    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
 echo "    <title>Portofolio Ilham Fadilah</title>";
 echo "    <link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css'>";
 echo "    <link rel='stylesheet' href='style.css'>";
-echo "    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-        }
-        .profile-img {
-            max-width: 1500px; /* Ukuran gambar telah diperbesar */
-            height: 200px; /* Tinggi gambar telah diperbesar */
-        }
-        .about-section {
-            margin-top: 20px;
-        }
-        .card {
-            margin-top: 20px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            transition: transform 0.3s ease;
-            background-color: #f8f9fa; /* Membuat kartu transparan */
-            border: none; /* Menghilangkan border kartu */
-        }
-        .card:hover {
-            transform: translateY(-5px);
-        }
-    </style>";
 echo "</head>";
-echo "<body>";
-echo "    <header class='bg-primary text-white text-center py-5'>";
-echo "        <h1>Ilham Fadilah</h1>";
-echo "        <p>Portofolio Saya</p>";
-echo "    </header>";
-echo "    <main class='container my-5'>";
-echo "        <section>";
-echo "            <h2>Tentang Saya</h2>";
-echo "            <p>Saya Ilham Fadilah, seorang mahasiswa yang berminat dalam pengembangan aplikasi modern. Saya memiliki pengalaman dalam menggunakan Docker, GitHub Actions, dan Cloud Deployment.</p>";
-echo "        </section>";
-echo "        <section>";
-echo "            <h2>Pengalaman</h2>";
-echo "            <ul class='list-group'>";
-echo "                <li class='list-group-item'>penggunaan Docker untuk pengembangan aplikasi</li>";
-echo "                <li class='list-group-item'>penggunaan GitHub Actions untuk automasi pengujian dan deployment</li>";
-echo "                <li class='list-group-item'>penggunaan Cloud Deployment untuk menghosting aplikasi</li>";
-echo "            </ul>";
-echo "        </section>";
-echo "        <section>";
-echo "            <h2>Proyek</h2>";
-echo "            <ul class='list-group'>";
-echo "                <li class='list-group-item'>Proyek Aplikasi Web menggunakan Docker dan GitHub Actions</li>";
-echo "                <li class='list-group-item'>Proyek Pengembangan Aplikasi Mobile menggunakan Cloud Deployment</li>";
-echo "            </ul>";
-echo "        </section>";
-echo "    </main>";
-echo "    <footer class='text-center py-4'>";
-echo "        <p>&copy; 2023 Ilham Fadilah</p>";
-echo "    </footer>";
+echo "<body class='bg-light' style='overflow: hidden;'>";
+echo "    <div class='container-fluid'>";
+echo "        <div class='row align-items-center' style='height: 100vh; width: 100vw;'>";
+echo "            <div class='col-md-6 text-center'>";
+echo "                <h1 class='display-4'><b>Chair Anggita</b></h1>";
+echo "                <p>Nama Saya Chair Anggita, Saya memiliki pengalaman kerja sebagai Accouting dan Finance selama 4 tahun, dan terbiasa dalam menjalankan tugas accounting dan finance, serta pekerjaan administrasi lainnya</p>";
+echo "            </div>";
+echo "            <div class='col-md-3 text-center'>";
+echo "                <img src='images/chair.png' alt='Profile' class='img-fluid rounded' style='width: 200px;'>";
+echo "            </div>";
+echo "        </div>";
+echo "    </div>";
+echo "    <script src='https://code.jquery.com/jquery-3.5.1.slim.min.js'></script>";
+echo "    <script src='https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js'></script>";
+echo "    <script src='https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js'></script>";
 echo "</body>";
 echo "</html>";
 ?>
