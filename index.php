@@ -13,6 +13,7 @@ echo "    <div class='container-fluid'>";
 echo "        <div class='row align-items-center' style='height: 100vh; width: 100vw;'>";
 echo "            <div class='col-md-6 text-center'>";
 echo "                <h1 class='display-4'><b>Chair Anggita</b></h1>";
+echo "                <h1 class='display-4'><b>ACCOUNTING & FINANCE</b></h1>";
 echo "                <p>Nama Saya Chair Anggita, Saya memiliki pengalaman kerja sebagai Accouting dan Finance selama 4 tahun, dan terbiasa dalam menjalankan tugas accounting dan finance, serta pekerjaan administrasi lainnya</p>";
 echo "            </div>";
 echo "            <div class='col-md-3 text-center'>";
